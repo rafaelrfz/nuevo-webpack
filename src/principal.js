@@ -1,8 +1,8 @@
 //Rename named imports
 import {saludar as saludo, despedir} from './mi-modulo.js'
 
-console.log(saludo('Rafaelito'));
-console.log(despedir('Danielita'));
+console.log(saludo('Juan'));
+console.log(despedir('Juanito'));
 
 // Named imports
 //import {saludar, despedir} from './mi-modulo.js'
